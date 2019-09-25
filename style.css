@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+nav {
+   background-color: black;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+}
+nav ul li {
+    display: inline-block;
+}
+nav ul li a {
+    padding: 10px;
+    color: white;
+    display: block;
+    text-decoration: none;
+}
