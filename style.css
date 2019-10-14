@@ -2,10 +2,10 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial;
-    background-color: antiquewhite;
+    background-color: whitesmoke;
 }
 nav {
-   background-color: black;
+   background-color: darksalmon;
 }
 nav ul {
     list-style-type: none;
@@ -16,7 +16,7 @@ nav ul li {
 }
 nav ul li a {
     padding: 10px;
-    color: white;
+    color: antiquewhite;
     display: block;
     text-decoration: none;
 }
