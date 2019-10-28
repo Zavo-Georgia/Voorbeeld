@@ -3,6 +3,7 @@ body {
     padding: 0;
     font-family: Arial;
     background-color: whitesmoke;
+    text-align: center;
 }
 nav {
    background-color: darksalmon;
@@ -19,4 +20,12 @@ nav ul li a {
     color: antiquewhite;
     display: block;
     text-decoration: none;
+}
+
+.cell {
+    border: 1px solid black;
+}
+
+#imgPersoon1, #imgPersoon2 {
+    width: 200px;
 }

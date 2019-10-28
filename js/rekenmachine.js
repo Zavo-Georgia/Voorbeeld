@@ -38,6 +38,7 @@ btnQuotient.addEventListener("click", function() {
 })
 
 
+//functie
 function createParagraph() {
     let paragraph = document.createElement("p");
     
